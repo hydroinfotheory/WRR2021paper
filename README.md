@@ -9,9 +9,10 @@ Hossein Foroozand¹, Steven V. Weijs¹
 
 1) Get rawdata.csv or Download monthly streamflow data for the 1990-2009 period  from USGS National Water Information System (https://waterdata.usgs.gov/nwis)
 
+2) Run '1_data_quantization.ipynb' and '2_network_design.ipynb' scripts to reproduce Figures 3to7 and all tables presented in the paper. Note that 'Info_theory_function_lists.py' file must be saved in the same directory.
+
 ## Contact
 Hossein Foroozand: hosseinforoozand@yahoo.com
-
 
 ## Citation
 
