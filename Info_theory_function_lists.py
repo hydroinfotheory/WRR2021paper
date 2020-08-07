@@ -259,7 +259,7 @@ def info_stats_merging_operator_multiple_varibles(data,order):
     mutual_last_added=H_marg[-1]-(entropy_1D(previous_merg)-entropy_1D(previous_merg_2nd))
     return Joint_entrpoy,mutual_last_added,total_correlation_last_added
 
-def greedy_optimozer_maxJE(data):
+def greedy_optimizer_maxJE(data):
     import numpy as np
     import itertools
     idx_left=list(np.arange(data.shape[1])+1)
@@ -284,7 +284,7 @@ def greedy_optimozer_maxJE(data):
     Ranked_order=idx_selected
     return Ranked_order
 
-def greedy_optimozer_minT(data):
+def greedy_optimizer_minT(data):
     import numpy as np
     import itertools
     idx_left=list(np.arange(data.shape[1])+1)
