@@ -18,4 +18,4 @@ Hossein Foroozand: hosseinforoozand@yahoo.com; Steven V. Weijs: steven.weijs@civ
 
 If you found this code useful in your research, please make sure to cite the following publication:
 
-Foroozand, H., and Weijs, S. V.: Effect of Data Quantization on Optimal Monitoring Network Design, Water Resources Research, doi.org/10.1029/2020WR-xxxxxx
+Foroozand, H., and Weijs, S. V.: Effect of Data Quantization on Optimal Monitoring Network Design, Water Resources Research, doi.org/10.1029/2021WR-xxxxxx
