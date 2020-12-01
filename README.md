@@ -1,4 +1,4 @@
-# WRR2020paper: Effect of Data Quantization on Optimal Monitoring Network Design
+# WRR2021paper: Effect of Data Quantization on Optimal Monitoring Network Design
 
 ## Authors
 Hossein Foroozand¹, Steven V. Weijs¹
